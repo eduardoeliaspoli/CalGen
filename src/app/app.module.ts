@@ -9,6 +9,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { Calendario2023Component } from './page/calendario2023/calendario2023.component';
 import { Calendario2022Component } from './page/calendario2022/calendario2022.component';
 import { LocalDateTimePipe } from './share/local-date-time.pipe';
+import { Calendario2021Component } from './page/calendario2021/calendario2021.component';
 
 @NgModule({
   declarations: [
@@ -17,7 +18,8 @@ import { LocalDateTimePipe } from './share/local-date-time.pipe';
     FooterComponent,
     Calendario2023Component,
     Calendario2022Component,
-    LocalDateTimePipe
+    LocalDateTimePipe,
+    Calendario2021Component
   ],
   imports: [
     BrowserModule,

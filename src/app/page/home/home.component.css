@@ -22,6 +22,10 @@ h1{
     background-position:center top;
     background-size: cover;
 }
-.button{
-    text-align: center;
+.content a{
+    text-decoration: none;
+    color: black;
+    background-color: chocolate;
+    border-style: double;
+    border: 3px solid;
 }
