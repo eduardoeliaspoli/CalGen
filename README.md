@@ -1,6 +1,6 @@
 # CalGen
 
-View this project complete in https://cal-gen.vercel.app/
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
 
