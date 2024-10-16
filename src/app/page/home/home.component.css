@@ -18,7 +18,7 @@ h1{
 }
 .banner{
     background-image: url(../../assets/img/backcalgen.jpg);
-    height: 700px;
+    height: 100vh;
     background-position:center top;
     background-size: cover;
 }
